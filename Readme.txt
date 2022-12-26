@@ -2,6 +2,7 @@
 2022.12.26
 
 Read me
+This repository is for the code used in "Deep learning-based classification of adequate sonographic images for self-diagnosing deep vein thrombosis" submitted to PLOS ONE.
 
 Please read this file before use our programs.
 

@@ -10,7 +10,7 @@ Please read this file before use our programs.
 
 The Train and Test folders contain samples to check the operation in advance.
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿_________________________＿＿＿＿＿＿＿＿＿＿＿＿＿＿_________________________
-The sample is an ultrasound image of the developer himself only.
+The sample is an ultrasound image of the developer himself only. Redistribution of images is prohibited.
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿_________________________＿＿＿＿＿＿＿＿＿＿＿＿＿＿_________________________
 When using your own data, please delete them before using the following code.
 
